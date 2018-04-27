@@ -25,7 +25,7 @@ SECRET_KEY = '999$r(e!cjsct-i-97r_dwgyx%3yy^k+269afw0=@rth-3o%_#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 #To send emal (Contact Us er jonno)
 EMAIL_USE_TLS = True
