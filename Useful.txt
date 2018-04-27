@@ -1,0 +1,8 @@
+All the installation needed for this project::
+
+1.Django Crispy forms
+
+
+For email sending
+https://myaccount.google.com/lesssecureapps
+go to that link and activate..
